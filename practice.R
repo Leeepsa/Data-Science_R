@@ -39,7 +39,7 @@ vect_add <- vect_x+vect_y
 
 chaar_v <- c("a","b","c")
 
-df<-data.frame(x=c(1,2,3),y=c("a","b","c"))
+df<-data.frame(x=c(1,2,3),y=c("a","b","c")) 
 
 Df_new<-data.frame(height=c(150,160),weight=c(65,72))
 
